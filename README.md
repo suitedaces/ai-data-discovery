@@ -1,1 +1,1 @@
-# ai-data-discovery
+# AI-powered Data Discovery
