@@ -13,7 +13,7 @@ Revolutionize data discoverability by integrating AWS Glue Data Catalog, Amazon 
 
 - **Amazon S3**: Primary data storage solution housing datasets and metadata for Kendra indexing.
 
-- **Client-Side Web App **(Chat Interface): User interface for query input and search result display, integrated with GPT-4 and Kendra.
+- **Client-Side Web App** (Chat Interface): User interface for query input and search result display, integrated with GPT-4 and Kendra.
 
 ## Steps:
 1. Data Identification:
